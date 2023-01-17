@@ -35,7 +35,7 @@
     <h3><b>Course:</b> <i>4</i></h3>
     <h1></h1>
     <h3><b>If you want to know more, see my CV👇</b></h3>
-    <a link="https://drive.google.com/file/d/1kvAnwF914zliDyOhaeVN5G9770iu14Oy/view?usp=share_link">Resume Java Developer</a>
+    <h3><a href="https://drive.google.com/file/d/1kvAnwF914zliDyOhaeVN5G9770iu14Oy/view?usp=share_link">Resume Java Developer</a></h3>
 </div>
 
 <br></br>
