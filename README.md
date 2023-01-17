@@ -35,32 +35,29 @@
     <h3><b>Course:</b> <i>4</i></h3>
     <h1></h1>
     <h3><b>If you want to know more, see my CV👇</b></h3>
-    <h3><a link="https://drive.google.com/file/d/1kvAnwF914zliDyOhaeVN5G9770iu14Oy/view?usp=share_link">Resume Java Developer
-    </a></h3>
-    <h1></h1>
+    <a link="https://drive.google.com/file/d/1kvAnwF914zliDyOhaeVN5G9770iu14Oy/view?usp=share_link">Resume Java Developer</a>
 </div>
 
 <br></br>
 
 <div id="langtools">
     <h1>Languages and Tools🔨</h1>
-    <h2><small>Programming languages</small></h2>
+    <h3><big>Programming languages</big></h3>
     <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="max-width: 100%;">
-    <h2><small>Frameworks</small></h2>
+    <h3><big>Frameworks</big></h3>
     <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50" style="max-width: 100%;">
-    <h2><small>Databases</small></h2>
+    <h3><big>Databases</big></h3>
     <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50" style="max-width: 100%;">
-    <h2><small>Tools</small></h2>
+    <h3><big>Tools</big></h3>
     <img src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="50" height="50" style="max-width: 100%;">
-    <h2><small>Version control system</small></h2>
+    <h3><big>Version control system</big></h3>
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50" style="max-width: 100%;">
-    <h2><small>Container platform</small></h2>
+    <h3><big>Container platform</big></h3>
      <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50" style="max-width: 100%;">
-    <h2><small>OS</small></h2>
+    <h3><big>OS</big></h3>
     <img src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50" style="max-width: 100%;">
     <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="50" height="50" style="max-width: 100%;">
-    <h1></h1>
 </div>
 
 <br></br>
@@ -137,7 +134,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexeyLud&show_icons=true&theme=highcontrast">
 
-<h1></h1>
 <br></br>
 
 <div id="toplangs">
