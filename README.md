@@ -122,6 +122,12 @@
                 <td><em>Java</em></td>
                 <td><a href="https://github.com/AlexeyLud/Java-labs-in-university">Repository</a></td>
             </tr>
+            <tr>
+                <td><strong>RSiOT lab</strong></td>
+                <td>Labs</td>
+                <td><em>Java, Spring, Maven, MySQL, JUnit, Swagger</em></td>
+                <td><a href="https://github.com/AlexeyLud/Backend-web-app">Repository</a></td>
+            </tr>
         </tbody>
     </table>
 </div>
