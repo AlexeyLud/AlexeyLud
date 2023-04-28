@@ -28,7 +28,7 @@
 <div id="headabout">
     <h1>About me</h1>
     <h3><b><big>Hi, I'm beginner Java Developer👨‍💻</big></b></h3>
-    <h3><b>Date of birth:</b> <i>13.03.2002(20 years)</i></h3>
+    <h3><b>Date of birth:</b> <i>13.03.2002(21 years)</i></h3>
     <h3><b>Country:</b> <i>Belarus</i></h3>
     <h3><b>City:</b> <i>Brest</i></h3>
     <h3><b>Education:</b> <i>Brest State Technical University</i></h3>
