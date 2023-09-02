@@ -33,7 +33,7 @@
 <br></br>
 
 <div id="projlabs">
-    <h1>Projects and Labs</h1>
+    <h1>Projects</h1>
     <table>
         <thead>
             <tr>
