@@ -27,7 +27,7 @@
     <h3><b>City:</b> <i>Brest</i></h3>
     <h3><b>Education:</b> <i>Brest State Technical University</i></h3>
     <h3><b>Mail:</b> <i>aleslyd5@gmail.com</i></h3>
-    <h3><b>CV:</b> <i><a href="https://drive.google.com/file/d/1CmwgI_yFQXlPcvpHt1SL05zVx2_txDJO/view?usp=sharing">Resume Java Developer</a></i></h3>
+    <h3><b>CV:</b> <i><a href="https://drive.google.com/file/d/1WmWOwT7Tny_hRFNlaGCHbk7Ieb2WS2Ux/view?usp=sharing">Resume Java Developer</a></i></h3>
 </div>
 
 <br></br>
