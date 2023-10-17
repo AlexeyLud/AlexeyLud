@@ -82,15 +82,9 @@
             </tr>
             <tr>
                 <td><strong>TaxiLink</strong></td>
-                <td>Fun project</td>
+                <td>University project</td>
                 <td><em>Android(Java), Server(Spring, MySQL)</em></td>
                 <td><a href="https://github.com/AlexeyLud/Android-app-for-taxi">Repository</a></td>
-            </tr>
-            <tr>
-                <td><strong>Neffy</strong></td>
-                <td>Diploma project</td>
-                <td><em>Android(Java), Server(Spring, MySQL)</em></td>
-                <td><a href="https://github.com/AlexeyLud/Android-app-for-caffe">Repository</a></td>
             </tr>
         </tbody>
     </table>
